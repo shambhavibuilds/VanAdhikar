@@ -1,3 +1,4 @@
+#VanAdhikar 
 # FRA Atlas — AI-Powered WebGIS Decision Support System
 
 **Smart India Hackathon 2025 | Problem Statement SIH12508**
@@ -112,4 +113,3 @@ The Forest Rights Act (2006) recognizes the land rights of tribal and forest-dwe
 ## License
 
 Built for Smart India Hackathon 2025 — Ministry of Tribal Affairs problem statement (SIH12508).
-# VanAdhikar
